@@ -2,12 +2,8 @@
 - ✨ I'm Grace Faith Musa
 
 - 🔭 I’m currently working on creating my personal website and an autobiography for our school project
-
-- 🤔 I’m looking for help with getting to know more abt
   
 - 💬 Ask me anything
-
-- gonna edit this later...
   
   
 <!--
