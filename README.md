@@ -1,9 +1,7 @@
 ## Hi there!
 - ✨ I'm Grace Faith Musa
 
-- 🔭 I’m currently working on creating my personal website and an autobiography for our school project
-  
-- 💬 Ask me anything
+- 🔭 I'm currently working on creating a system with a database for our school project, AND I DON'T EVEN HAVE ANY IDEA ABOUT HOW TO USE stuff like SQL to store data. :>
   
   
 <!--
